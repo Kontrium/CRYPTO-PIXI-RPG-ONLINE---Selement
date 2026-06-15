@@ -1,0 +1,6 @@
+{
+  "name": "CryptoPixiRPG",
+  "description": "A sandbox multiplayer canvas RPG adventure with customizable administrative editor capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
